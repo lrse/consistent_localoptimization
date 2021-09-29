@@ -1,0 +1,22 @@
+# Temporaries
+*~
+
+# Non sourses
+*.fig
+*.png
+*.mat
+
+# Ignored .m files
+bsdbatch.m
+gplbatch.m
+graphslam.m
+licremove.m
+profiler.m
+edsys_course.m
+
+# Ignored directories
+profile_resultsCholesky/
+profile_results_Cholesky/
+profile_results_QR/
+profile_results_Schur/
+
